@@ -9,7 +9,6 @@ echo "███████║█████╔╝S███████╗█�
 echo "██╔══██║██╔═██╗S╚════██║██╔══╝SS██╔══██║██╔══██╗╚════██║██╔══██║";
 echo "██║SS██║██║SS██╗███████║███████╗██║SS██║██║SS██║███████║██║SS██║";
 echo "╚═╝SS╚═╝╚═╝SS╚═╝╚══════╝╚══════╝╚═╝SS╚═╝╚═╝SS╚═╝╚══════╝╚═╝SS╚═╝";
-echo "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS";
 
                                                                              
                                                                              
